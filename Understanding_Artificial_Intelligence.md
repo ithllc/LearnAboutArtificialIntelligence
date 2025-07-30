@@ -2,7 +2,7 @@
 
 ### **Important People of AI**
 
-*   **Claude Shannon (corrected from Johnson):** Shannon is known as the "father of information theory," establishing the mathematical limits for data compression and communication. His work defined how to quantify information using bits, which became the universal language of computing. His research is the bedrock of **Information Theory**, which underpins how AI systems store, process, and transmit the massive datasets they learn from.
+*   **Claude Shannon:** Shannon is known as the "father of information theory," establishing the mathematical limits for data compression and communication. His work defined how to quantify information using bits, which became the universal language of computing. His research is the bedrock of **Information Theory**, which underpins how AI systems store, process, and transmit the massive datasets they learn from.
 
 *   **Andrey Markov:** Markov was a mathematician who developed "Markov chains," a model describing a sequence of events where the probability of the next event depends only on the current state. This allows for modeling systems that have memory and change over time. His concept is a cornerstone of the **Theory of Learning** and is used heavily in Natural Language Processing and reinforcement learning.
 
