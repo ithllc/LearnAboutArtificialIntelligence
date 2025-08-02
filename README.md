@@ -6,3 +6,4 @@ I designed this curriculumn to allow people to learn about Artificial Intelligen
 Syllabus:
 1. Understanding Artificial Intelligence
 2. Probabilities, Statistics, and Machine Learning
+3. Applied Machine Learning: From Concept to Production
