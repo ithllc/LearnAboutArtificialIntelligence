@@ -1,4 +1,4 @@
-# LearnAboutArtificialIntelligence
+# Learn About Artificial Intelligence
 Quick Study Curriculum for learning about Artificial Intelligence
 
 I designed this curriculumn to allow people to learn about Artificial Intelligence in as short time as possible by getting to know the basic understanding. It was written from the point of view of a business professional, so very little technical know-how is needed to get started.
