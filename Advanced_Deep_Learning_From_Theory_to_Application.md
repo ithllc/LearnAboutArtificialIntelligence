@@ -2,7 +2,7 @@
 
 ### **Course: Advanced Deep Learning: From Theory to Application**
 
-**Welcome!** This course is for leaders who have mastered the fundamentals and are ready to explore the cutting edge of AI. We will delve into deep learning, the technology behind self-driving cars and human-like chatbots. We'll continue our journey with **Quality Parts Manufacturing Inc. (QPM)**, but this time, we are moving beyond simple predictions to tackle complex problems that require a new level of intelligence.
+### **Welcome!** This course is for leaders who have mastered the fundamentals and are ready to explore the cutting edge of AI. We will delve into deep learning, the technology behind self-driving cars and human-like chatbots. We'll continue our journey with **Quality Parts Manufacturing Inc. (QPM)**, but this time, we are moving beyond simple predictions to tackle complex problems that require a new level of intelligence.
 
 ---
 
