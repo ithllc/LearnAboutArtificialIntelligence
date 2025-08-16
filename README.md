@@ -8,3 +8,5 @@ Syllabus:
 2. Probabilities, Statistics, and Machine Learning
 3. Applied Machine Learning: From Concept to Production
 4. Advanced Deep Learning: From Theory to Application
+5. Applying Ethics and Governance to Artificial Intelligence
+6. QPM AI thics and Governance Playbook
