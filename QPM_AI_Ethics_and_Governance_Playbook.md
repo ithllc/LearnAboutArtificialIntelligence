@@ -1,5 +1,3 @@
----
-
 ### **The QPM AI Ethics and Governance Playbook**
 
 **Version 1.0**
