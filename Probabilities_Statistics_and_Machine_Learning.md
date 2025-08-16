@@ -1,5 +1,3 @@
----
-
 ### **Probabilities**
 
 Probability theory is the mathematical language used to quantify uncertainty, making it the bedrock of the **Theory of Learning** and **Information Theory** by allowing us to model and reason about the inherently uncertain nature of data and predictions.
