@@ -1,8 +1,6 @@
----
-
 ### **Course: Applied Machine Learning: From Concept to Production**
 
-### **Welcome!** This course is designed for business leaders, managers, and strategists. You will learn the end-to-end process of a machine learning project, not by writing code, but by understanding the concepts through the story of a fictional business: **Quality Parts Manufacturing Inc. (QPM)**. Our goal is to equip you to lead and plan for AI in your organization.
+**Welcome!** This course is designed for business leaders, managers, and strategists. You will learn the end-to-end process of a machine learning project, not by writing code, but by understanding the concepts through the story of a fictional business: **Quality Parts Manufacturing Inc. (QPM)**. Our goal is to equip you to lead and plan for AI in your organization.
 
 ---
 
