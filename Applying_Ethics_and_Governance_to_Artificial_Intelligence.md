@@ -2,7 +2,8 @@
 
 ### **Course: Applying Ethics and Governance to Artificial Intelligence**
 
-**Welcome!** In our previous courses, we learned how to build powerful machine learning and deep learning systems. Now, we will learn how to build them *responsibly*. This course is for everyone involved in the AI lifecycle, from leaders and managers to technical experts. We will explore how to ensure the AI we build is fair, safe, and aligned with our values, using our fictional company, **Quality Parts Manufacturing Inc. (QPM)**, as our guide. The final deliverable for this course will be an organization-ready AI Ethics and Governance playbook with reusable templates, controls, and a red team test plan. An example playbook is created under the name "QPM_AI_Ethics_and_Governance_Playbook.md".
+**Welcome!** 
+In our previous courses, we learned how to build powerful machine learning and deep learning systems. Now, we will learn how to build them *responsibly*. This course is for everyone involved in the AI lifecycle, from leaders and managers to technical experts. We will explore how to ensure the AI we build is fair, safe, and aligned with our values, using our fictional company, **Quality Parts Manufacturing Inc. (QPM)**, as our guide. The final deliverable for this course will be an organization-ready AI Ethics and Governance playbook with reusable templates, controls, and a red team test plan. An example playbook is created under the name "QPM_AI_Ethics_and_Governance_Playbook.md".
 
 Before we begin, let's define three key concepts:
 
