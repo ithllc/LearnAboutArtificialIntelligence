@@ -1,5 +1,3 @@
----
-
 ### **Important People of AI**
 
 *   **Claude Shannon:** Shannon is known as the "father of information theory," establishing the mathematical limits for data compression and communication. His work defined how to quantify information using bits, which became the universal language of computing. His research is the bedrock of **Information Theory**, which underpins how AI systems store, process, and transmit the massive datasets they learn from.
