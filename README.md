@@ -10,3 +10,5 @@ Syllabus:
 4. [Advanced Deep Learning: From Theory to Application](Advanced_Deep_Learning_From_Theory_to_Application.md)
 5. [Applying Ethics and Governance to Artificial Intelligence](Applying_Ethics_and_Governance_to_Artificial_Intelligence.md)
 6. [QPM AI thics and Governance Playbook](QPM_AI_Ethics_and_Governance_Playbook.md)
+7. [Language Models (Small to Large), Prompt Engineering, and Agentic AI](https://github.com/ithllc/LearnAboutArtificialIntelligence/blob/main/Language_Models_Prompt_Engineering_and_Agentic_AI.md)
+8. [Integrating Advanced AI at QPM: Playbook](https://github.com/ithllc/LearnAboutArtificialIntelligence/blob/main/Integrating_Advanced_AI_at_QPM.md)
